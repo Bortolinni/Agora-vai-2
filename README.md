@@ -6,7 +6,7 @@
 
 3 - npm install tailwindcss @tailwindcss/postcss postcss
 
-4 - npm rumn dev 
+4 - npm run dev 
 
 
 # React + Vite
