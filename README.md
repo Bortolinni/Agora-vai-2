@@ -1,4 +1,4 @@
-# Dependencias imnportantes
+# Dependencias importantes
 
 1 - npm install
 
